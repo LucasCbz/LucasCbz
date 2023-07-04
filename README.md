@@ -13,7 +13,7 @@
 <div align="center">
   
 <a href="https://instagram.com/lucascmartins_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a><a href = "bzprogrammation77@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><a href="https://www.linkedin.com/in/lucas-cunha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank">
+</a><a href = "bzprogrammation77@gmail.com">  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><a href="https://www.linkedin.com/in/lucas-cunha-67a15921a/" target="_blank">  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank">
 </a>
 
 </div>
@@ -29,6 +29,9 @@
 ![HTML](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 
 </div>
+<div align="right">
+  
+![giphy](https://github.com/LucasCbz/LucasCbz/assets/96191215/11b2ac51-9c8d-4d50-82cd-b09c16201588)
 
-
+</div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d60b0b&height=120&section=footer"/>
